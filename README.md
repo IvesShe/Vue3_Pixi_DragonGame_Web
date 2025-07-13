@@ -1,0 +1,2 @@
+# Vue3_Pixi_DragonGame_Web
+Vue3搭配pixijs製作的簡易Chrome小恐龍遊戲
